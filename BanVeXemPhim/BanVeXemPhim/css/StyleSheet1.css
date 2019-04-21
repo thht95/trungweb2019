@@ -1,0 +1,46 @@
+﻿
+.header-top{
+    width:100%;
+    height: auto;
+    display: inline-block;
+    vertical-align:top;
+           }
+.header-top-1{
+    width:100%;
+    height: 300px;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.form-1{
+   height:800px;
+}
+.header{
+    background-color:#8e6969;
+}
+.header a{
+    color:white;
+    padding-left:0px;
+}
+a:hover{
+    color:#3941ce;
+}
+.footer-top{
+    background-color:#6c4343;
+    padding-bottom:60px;
+    padding-top:60px;
+}
+.footer{
+    background-color:black;
+    padding-top:20px;
+    padding-bottom:50px;
+    color:white;
+}
+.p-b-20{
+    padding-bottom:20px;
+}
+.padding-top-20{
+    padding-top:20px;
+}
+

@@ -1,0 +1,68 @@
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\ApplicationInsights.config
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\roslyn\csc.exe
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\roslyn\System.Collections.Immutable.dll
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\roslyn\vbc.exe
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\roslyn\VBCSCompiler.exe
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\roslyn\VBCSCompiler.exe.config
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\BanVeXemPhim.dll.config
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\BanVeXemPhim.dll
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\BanVeXemPhim.pdb
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.AI.Web.dll
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.AI.WindowsServer.dll
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.ApplicationInsights.dll
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.AI.Web.xml
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.AI.WindowsServer.xml
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.ApplicationInsights.xml
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\obj\Debug\BanVeXemPhim.dll
+c:\users\trumcuong\documents\visual studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\obj\Debug\BanVeXemPhim.pdb
+C:\Users\TrumCuong\Documents\Visual Studio 2015\Projects\BanVeXemPhim\BanVeXemPhim\obj\Debug\BanVeXemPhim.csprojResolveAssemblyReference.cache
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\ApplicationInsights.config
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\roslyn\csc.exe
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\roslyn\vbc.exe
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\roslyn\VBCSCompiler.exe
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\BanVeXemPhim.dll.config
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\BanVeXemPhim.dll
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\BanVeXemPhim.pdb
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.AI.Web.dll
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.AI.Web.xml
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\obj\Debug\BanVeXemPhim.csprojAssemblyReference.cache
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\obj\Debug\BanVeXemPhim.csproj.CoreCompileInputs.cache
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\obj\Debug\BanVeXemPhim.csproj.CopyComplete
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\obj\Debug\BanVeXemPhim.dll
+C:\Users\SN\Desktop\BanVeXemPhim\BanVeXemPhim\BanVeXemPhim\obj\Debug\BanVeXemPhim.pdb
