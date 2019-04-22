@@ -17,7 +17,7 @@ namespace BanVeXemPhim
 
         protected void Session_Start(object sender, EventArgs e)
         {
-
+            Session["SoLanDangNhap"] = 0;
         }
 
         protected void Application_BeginRequest(object sender, EventArgs e)

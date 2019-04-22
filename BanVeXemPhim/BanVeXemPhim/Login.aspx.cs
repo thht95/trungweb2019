@@ -22,38 +22,48 @@ namespace BanVeXemPhim
         protected void btnDangNhap_Click(object sender, EventArgs e)
         {
             string sql="select * from TaiKhoanKhachHang where TenDangNhap='"+txtTenDangNhap.Text+"' and MatKhau='"+txtMatKhau.Text+"'";
-            using(SqlConnection cnn=new SqlConnection(constr))
+            if (Convert.ToInt32(Session["SoLanDangNhap"]) <= 3)
             {
-                using (SqlCommand cmd = new SqlCommand(sql, cnn))
+                using (SqlConnection cnn = new SqlConnection(constr))
                 {
-                    using (SqlDataAdapter com = new SqlDataAdapter(cmd))
+                    using (SqlCommand cmd = new SqlCommand(sql, cnn))
                     {
-                        DataTable da = new DataTable();
-                        com.Fill(da);
-                        if(da.Rows.Count == 1)
+                        using (SqlDataAdapter com = new SqlDataAdapter(cmd))
                         {
-                            Session["tendangnhap"] = da.Rows[0]["TenDangNhap"] ;
-                            Session["matkhau"] = da.Rows[0]["MatKhau"];
-                            string a = da.Rows[0][4].ToString();
-                            if (a == "Q1")
+                            DataTable da = new DataTable();
+                            com.Fill(da);
+                            if (da.Rows.Count == 1)
                             {
-                                Session["trangthaidangnhap"] = "1";
-                                Response.Redirect("Admin.aspx");
+                                Session["tendangnhap"] = da.Rows[0]["TenDangNhap"];
+                                Session["matkhau"] = da.Rows[0]["MatKhau"];
+                                string a = da.Rows[0][4].ToString();
+                                if (a == "Q1")
+                                {
+                                    Session["trangthaidangnhap"] = "1";
+                                    Response.Redirect("Admin.aspx");
+                                }
+                                else
+                                {
+                                    Session["trangthaidangnhap"] = "1";
+                                    Response.Redirect("TrangChu.aspx");
+                                }
                             }
                             else
                             {
-                                Session["trangthaidangnhap"] = "1";
-                                Response.Redirect("TrangChu.aspx");
+                                Response.Write(da.Rows.Count.ToString());
+                                Response.Write("<script>alert('Đăng Nhập Không Thành Công');</script>");
+
+                                Session["SoLanDangNhap"] = Convert.ToInt32(Session["SoLanDangNhap"]) + 1;
                             }
-                        }
-                        else
-                        {
-                            Response.Write(da.Rows.Count.ToString());
-                            Response.Write("<script>alert('Đăng Nhập Không Thành Công');</script>");
                         }
                     }
                 }
             }
+            else
+            {
+                Response.Write("<script>alert('Đã đăng nhập quá 3 lần. Tạm thời khóa đăng nhập');</script>");
+            }
+            
         }
 
         protected void btnThoat_Click(object sender, EventArgs e)
